@@ -257,7 +257,7 @@ TRUTHY & FALSY
   - Convert the new code into older equivalent code so Older JS Engines can execute it.
 
 - KEYWORDS
-  - a = null; typeof a; // "object" --weird BUG!!
+  - a = null; typeof a; // "object" --weird BUG!!!
   - LET - manage variable scope in more fine-grained fashion
 
 ### Scopes and Closures
